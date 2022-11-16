@@ -1,0 +1,22 @@
+{
+  "name": "miprimerbackend",
+  "version": "0.9.0",
+  "description": "mi primer backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastianquintanam/miprimerbackend_night.git"
+  },
+  "author": "sebastianquintanam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebastianquintanam/miprimerbackend_night/issues"
+  },
+  "homepage": "https://github.com/sebastianquintanam/miprimerbackend_night#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
